@@ -2,8 +2,8 @@
 2 update from git_1
 1 update from git_2 2
 2 update from git_2 2
-3
-4
+3 update from git_1
+4 update from git_1
 5
 6
 7
