@@ -4,7 +4,7 @@
 4 update git_1 p7
 5 update git_1 p8
 6 update git_1 p8
-7
-8
+7 folder2 upd
+8 folder2 upd
 9 upd from folder1
 10 upd from folder1
